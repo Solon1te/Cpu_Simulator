@@ -3,3 +3,6 @@ class CPU:
         self.cashe = []
 
     def storetocashe():
+        pass
+    def read():
+        pass
